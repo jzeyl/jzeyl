@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hi there 👋. I'm Jeff.
 
-- 🔭 I’m currently working on learning
-- I have a background in biological research - bioacoustics (MSc, PhD, postdoc)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on launching a career in tech in the are of data analysis and web development
+- ⚡ I have a background in biological research (MSc, PhD, and postdoc in bioacoustics)
+- 🌱 I’m currently learning SQL, Python, Javascript
+- 👯 I’m looking to collaborate on data analysis, database management, and web development projects
+- 📫 How to reach me: jeffzeyl@gmail.com
 
 <!--
 **jzeyl/jzeyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
