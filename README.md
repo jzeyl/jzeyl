@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate on data analysis, database management, and web development projects
 - 📫 How to reach me: jeffzeyl@gmail.com
 
+Check out some of what I'm working on at my [portfolio page](https://github.com/jzeyl/Portfolio)
+
 <!--
 **jzeyl/jzeyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
