@@ -1,6 +1,6 @@
 ### Hi there 👋. I'm Jeff.
 
-- 🔭 I’m currently working on launching a career in tech in the areas of data analysis and web development
+- 🔭 I’m currently developing my career in tech in the areas of data analysis and web development
 - ⚡ Before this, I have worked in biological research (MSc, PhD, and postdoc in bioacoustics)
 - 🌱 I’m currently learning SQL, Python, Javascript
 - 👯 I’m looking to collaborate on data analysis, database management, and web development projects
