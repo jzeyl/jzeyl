@@ -1,10 +1,10 @@
 ### Hi there 👋. I'm Jeff.
 
-- 🔭 I’m currently developing my career in tech in the areas of data analysis and web development
-- ⚡ Before this, I have worked in biological research (MSc, PhD, and postdoc in bioacoustics)
-- 🌱 I’m currently learning SQL, Python, Javascript
-- 👯 I’m looking to collaborate on data analysis, database management, and web development projects
-- 📫 How to reach me: jeffzeyl@gmail.com
+- I’m currently developing my career in tech in the areas of data analysis and web development
+- Before this, I have worked in biological research (MSc, PhD, and postdoc in bioacoustics)
+- I’m currently learning SQL, Python, Javascript
+- I’m looking to collaborate on data analysis, database management, and web development projects
+- How to reach me: jeffzeyl@gmail.com
 
 Check out some of what I'm working on at my [portfolio page](https://github.com/jzeyl/Portfolio)
 
