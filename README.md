@@ -1,8 +1,8 @@
-### Hi there 👋. I'm Jeff.
+### Hi, I'm Jeff.
 
-- I’m currently developing my career in tech in the areas of data analysis and web development
+- I’m interested in projects of data analysis, visualization, and web development
 - Before this, I worked in bioacoustics research (MSc, PhD, and postdocd)
-- I’m interested in R, Python, Javascript, and SQL
+- I have experience with R, Python, Javascript, and SQL. Some work with Flask for web development.
 - I’m looking to collaborate on data analysis, database management, and web development projects
 - Reach me at jeffzeyl@gmail.com
 
