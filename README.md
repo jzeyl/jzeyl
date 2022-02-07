@@ -1,9 +1,11 @@
-### Hi, I'm Jeff.
+### Welcome to my GitHub profile. :computer::wave:
 
-- I’m interested in projects of data analysis, visualization, and web development
-- Before this, I worked in bioacoustics research (MSc, PhD, and postdocd)
-- I have experience with R, Python, Javascript, and SQL. Some work with Flask for web development.
-- I’m looking to collaborate on data analysis, database management, and web development projects
+### Contents
+- I’m interested in projects of data analysis, visualization :bar_chart::chart_with_upwards_trend:
+- Repositories about acoustics and working with anatomy data :ear::sound:
+- R, Python, Javascript, and SQL. 
+
+
 - Reach me at jeffzeyl@gmail.com
 
 Check out some of what I'm working on at my [portfolio page](https://github.com/jzeyl/Portfolio)
