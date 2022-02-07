@@ -6,7 +6,7 @@
 - R, Python, Javascript, and SQL. 
 
 
-- Reach me at jeffzeyl@gmail.com
+- Reach me at <jeffzeyl@gmail.com>, [LinkedIn](https://www.linkedin.com/in/jeff-zeyl/) or [Twitter](https://twitter.com/jeff_zeyl) :mailbox:
 
 Check out some of what I'm working on at my [portfolio page](https://github.com/jzeyl/Portfolio)
 
