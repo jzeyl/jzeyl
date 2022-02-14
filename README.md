@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile. :computer::wave:
 
 ### Contents
-- I’m interested in projects of data analysis, visualization :bar_chart::chart_with_upwards_trend:
+- I’m interested in data analysis, data visualization, and web development :bar_chart::chart_with_upwards_trend:
 - Repositories about acoustics and working with anatomy data :ear::sound:
 - R, Python, Javascript, and SQL. 
 
