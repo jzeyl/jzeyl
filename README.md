@@ -1,5 +1,7 @@
 ### Welcome to my GitHub profile. :computer::wave:
 
+### Check out some of what I'm working on at my [portfolio page](https://github.com/jzeyl/Portfolio)
+
 ### Contents
 - I’m interested in data analysis, data visualization, and web development :bar_chart::chart_with_upwards_trend:
 - Repositories about acoustics and working with anatomy data :ear::sound:
@@ -8,7 +10,7 @@
 
 - Reach me at <jeffzeyl@gmail.com>, [LinkedIn](https://www.linkedin.com/in/jeff-zeyl/) or [Twitter](https://twitter.com/jeff_zeyl) :mailbox:
 
-Check out some of what I'm working on at my [portfolio page](https://github.com/jzeyl/Portfolio)
+
 
 <!--
 **jzeyl/jzeyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
