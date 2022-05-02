@@ -1,10 +1,8 @@
 ### Welcome to my GitHub profile. :computer::wave:
 
- Check out some of my work on my [portfolio page](https://github.com/jzeyl/Portfolio). Here you can find:
-- Repositories about acoustics and working with anatomy data :ear::sound:
-- R, Python, Javascript, and SQL. 
+ I’m interested in data analysis, data visualization, and web development :bar_chart::chart_with_upwards_trend:.  
+ Check out some of my work on my [portfolio page](https://github.com/jzeyl/Portfolio). Here you can find repositories about acoustics and working with anatomy data :ear::sound:, and lots of scripts dealing with data processing, analysis, and visualization.
 
-I’m interested in data analysis, data visualization, and web development :bar_chart::chart_with_upwards_trend:.  
 Reach me at <jeffzeyl@gmail.com>, [LinkedIn](https://www.linkedin.com/in/jeff-zeyl/) or [Twitter](https://twitter.com/jeff_zeyl) :mailbox:
 
 
