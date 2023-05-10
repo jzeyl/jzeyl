@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile. :computer::wave:
 
 
-I'm a data analyst based on Ontario, Canada. Check out some of my code on my [portfolio page](https://github.com/jzeyl/Portfolio). Here you can find repositories about acoustics and working with anatomy data :ear::sound:, and lots of scripts dealing with data processing, analysis, and visualization:bar_chart::chart_with_upwards_trend:.  
+I'm a data analyst based on Ontario, Canada. Check out some of my code on my [portfolio page](https://github.com/jzeyl/Portfolio). Here you can find repositories about acoustics and working with anatomy data, and lots of scripts dealing with data processing, analysis, and visualization.  
 
 Reach me at <jeffzeyl@gmail.com>, [LinkedIn](https://www.linkedin.com/in/jeff-zeyl/) or [Twitter](https://twitter.com/jeff_zeyl) :mailbox:
 
