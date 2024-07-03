@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile. :computer::wave:
 
 
-I'm a data analyst based on Ontario, Canada. Check out some of my code on my [portfolio page](https://github.com/jzeyl/Portfolio). Here you can find repositories about acoustics and working with anatomy data, and lots of scripts dealing with data processing, analysis, and visualization.  
+I'm a software developer and data analyst based on Ontario, Canada. Check out some of my code on my [portfolio page](https://github.com/jzeyl/Portfolio). Here you can find scripts and programs dealing with data, statistics, and visualizations.  
 
 Reach me at <jeffzeyl@gmail.com> or [LinkedIn](https://www.linkedin.com/in/jeff-zeyl/)  :mailbox:
 
