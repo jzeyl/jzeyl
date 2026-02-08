@@ -1,8 +1,7 @@
 ### Welcome to my GitHub profile. :computer::wave:
 
 
-I'm a software developer and IT analyst based on Ontario, Canada. Check out some of my code on my [portfolio page](https://github.com/jzeyl/Portfolio). Here you can find scripts and programs dealing with data, statistics, and visualizations.  
-
+I'm a software developer and IT analyst based on Ontario, Canada.  
 Reach me at <jeffzeyl@gmail.com> or [LinkedIn](https://www.linkedin.com/in/jeff-zeyl/)  :mailbox:
 
 
